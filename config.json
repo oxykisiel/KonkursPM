@@ -1,0 +1,33 @@
+{
+    "uczestnik": {
+        "imie": "Marcin",
+        "nazwisko": "Kisielewski",
+        "email": "oxykisiel@gmail.com",
+        "miasto": "Słupsk"
+    },
+    "ustawienia": {
+        "max_pages": 3,
+        "max_contests": 10,
+        "max_daily": 10,
+        "headless": false,
+        "interactive": false,
+        "captcha_mode": "wait",
+        "save_artifacts": false,
+        "dry_run": false
+    },
+    "llm": {
+        "provider": "gemini",
+        "api_key": "",
+        "model": "gemini-2.0-flash",
+        "enabled": false
+    },
+    "urls": {
+        "list_url": "https://portalmedialny.pl/konkursy/",
+        "seed_forms": [
+            "https://portalmedialny.pl/konkursy/3522/wege-jamie-oliver.html",
+            "https://portalmedialny.pl/konkursy/3489/zbrodnie-zimowa-pora-agatha-christie.html",
+            "https://portalmedialny.pl/konkursy/3506/osobisty-przewodnik-po-pradze-mariusz-szczygiel-filip-springer.html",
+            "https://portalmedialny.pl/konkursy/3487/konce-swiatow-ziemowit-szczerek-wydawnictwo-czarne.html"
+        ]
+    }
+}
