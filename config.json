@@ -1,9 +1,9 @@
 {
     "uczestnik": {
-        "imie": "Marcin",
-        "nazwisko": "Kisielewski",
-        "email": "oxykisiel@gmail.com",
-        "miasto": "Słupsk"
+        "imie": "imię",
+        "nazwisko": "nazwisko",
+        "email": "mail",
+        "miasto": "miasto"
     },
     "ustawienia": {
         "max_pages": 3,
